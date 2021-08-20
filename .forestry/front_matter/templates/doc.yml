@@ -1,9 +1,0 @@
----
-label: Doc
-hide_body: true
-fields:
-- name: stuff
-  type: text
-  config:
-    required: false
-  label: stuff
